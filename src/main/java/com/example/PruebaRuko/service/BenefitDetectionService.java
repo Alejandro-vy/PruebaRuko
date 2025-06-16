@@ -4,8 +4,10 @@ import com.example.PruebaRuko.model.ClientVisitStreak;
 import com.example.PruebaRuko.model.Event;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.SerializationFeature;
 import org.springframework.stereotype.Service;
 
+import java.io.File;
 import java.io.InputStream;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -16,10 +18,11 @@ import java.util.stream.Collectors;
 
 @Service
 public class BenefitDetectionService {
-
     public void processEvents() {
         try {
             ObjectMapper mapper = new ObjectMapper();
+            mapper.findAndRegisterModules();
+
             InputStream is = getClass().getClassLoader().getResourceAsStream("ruklo_events_1000.json");
             List<Event> events = mapper.readValue(is, new TypeReference<>() {});
 
@@ -49,10 +52,18 @@ public class BenefitDetectionService {
                 }
             }
 
+            // Imprimir por consola
             streaks.forEach(System.out::println);
+
+            // Exportar a JSON ordenado
+            mapper.enable(SerializationFeature.INDENT_OUTPUT);
+            mapper.writeValue(new File("benefits_output.json"), streaks);
+
+            System.out.println("\n✅ Beneficios exportados a benefits_output.json");
 
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 }
+

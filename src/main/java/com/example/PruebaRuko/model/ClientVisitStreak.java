@@ -1,7 +1,8 @@
 package com.example.PruebaRuko.model;
 
-import java.time.LocalDate;
+
 import java.time.LocalDateTime;
+
 
 public class ClientVisitStreak {
 
@@ -17,9 +18,24 @@ public class ClientVisitStreak {
         this.end = end;
     }
 
+    public String getClientId() {
+        return clientId;
+    }
+
+    public String getStoreId() {
+        return storeId;
+    }
+
+    public LocalDateTime getStart() {
+        return start;
+    }
+
+    public LocalDateTime getEnd() {
+        return end;
+    }
+
     @Override
     public String toString() {
         return "Client " + clientId + " got a benefit at store " + storeId + " (from " + start + " to " + end + ")";
-
-}
+    }
 }
