@@ -1,0 +1,401 @@
+[ {
+  "clientId" : "client_9",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 3
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 13
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 12
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 7
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 12
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 0
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 3557.5
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 2612.785714285714
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 3398.4166666666665
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 2476.6666666666665
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 2402.5714285714284
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 0.0
+  } ]
+}, {
+  "clientId" : "client_8",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 6
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 12
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 12
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 12
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 6
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 1
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 2469.0
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 2444.4615384615386
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 3110.7272727272725
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 2253.5555555555557
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 2540.0
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 3261.5
+  } ]
+}, {
+  "clientId" : "client_5",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 4
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 10
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 17
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 13
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 11
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 2
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 2203.3333333333335
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 2175.1111111111113
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 2473.8
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 3121.3
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 3102.285714285714
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 0.0
+  } ]
+}, {
+  "clientId" : "client_4",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 4
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 15
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 16
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 14
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 14
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 1
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 3080.0
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 2238.75
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 3149.2
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 2959.714285714286
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 2322.785714285714
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 3559.0
+  } ]
+}, {
+  "clientId" : "client_7",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 1
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 9
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 10
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 24
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 9
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 0
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 3008.714285714286
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 3179.8333333333335
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 2614.5555555555557
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 2245.3333333333335
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 2779.0
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 1348.0
+  } ]
+}, {
+  "clientId" : "client_6",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 2
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 9
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 9
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 14
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 12
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 1
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 3269.0
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 3074.9166666666665
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 3014.5
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 2747.529411764706
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 3026.8333333333335
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 1245.0
+  } ]
+}, {
+  "clientId" : "client_1",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 3
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 11
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 6
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 15
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 11
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 1
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 2735.8
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 2747.6666666666665
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 2509.6153846153848
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 2816.909090909091
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 3233.090909090909
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 1628.0
+  } ]
+}, {
+  "clientId" : "client_0",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 3
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 13
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 8
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 13
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 9
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 1
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 3388.0
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 2840.285714285714
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 3355.0
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 3031.315789473684
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 2564.5384615384614
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 2401.0
+  } ]
+}, {
+  "clientId" : "client_3",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 1
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 7
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 11
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 17
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 10
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 0
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 2920.75
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 2377.0
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 2679.0
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 2284.4666666666667
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 2786.75
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 0.0
+  } ]
+}, {
+  "clientId" : "client_2",
+  "visits" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "count" : 5
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "count" : 11
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "count" : 14
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "count" : 13
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "count" : 12
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "count" : 0
+  } ],
+  "recharges" : [ {
+    "weekStart" : [ 2025, 4, 21 ],
+    "averageAmount" : 2540.0
+  }, {
+    "weekStart" : [ 2025, 4, 28 ],
+    "averageAmount" : 3241.153846153846
+  }, {
+    "weekStart" : [ 2025, 5, 5 ],
+    "averageAmount" : 2510.1666666666665
+  }, {
+    "weekStart" : [ 2025, 5, 12 ],
+    "averageAmount" : 2098.1428571428573
+  }, {
+    "weekStart" : [ 2025, 5, 19 ],
+    "averageAmount" : 3075.4
+  }, {
+    "weekStart" : [ 2025, 5, 26 ],
+    "averageAmount" : 0.0
+  } ]
+} ]

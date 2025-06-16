@@ -57,7 +57,11 @@ public class BenefitDetectionService {
 
             // Exportar a JSON ordenado
             mapper.enable(SerializationFeature.INDENT_OUTPUT);
-            mapper.writeValue(new File("benefits_output.json"), streaks);
+            File outputDir = new File("outputs");
+            if (!outputDir.exists()) outputDir.mkdirs();
+
+            mapper.writeValue(new File(outputDir, "benefits_output.json"), streaks);
+
 
             System.out.println("\n✅ Beneficios exportados a benefits_output.json");
 
